@@ -3,6 +3,7 @@ import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { github } from "../assets";
+import { button } from "../assets";
 import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
 import { fadeIn, textVariant } from "./motion";
@@ -14,6 +15,7 @@ const ProjectCard = ({
   tags,
   image,
   source_code_link,
+  source_code_link_2,
 }) => {
   return (
     //////imp/////////////
@@ -32,7 +34,7 @@ const ProjectCard = ({
             alt={name}
             className="w-full h-full  object-cover rounded-2xl"
           />
-          <div className="absolute inset-0 flex justify-end m-3 card-img_hover">
+          <div className="absolute inset-0 flex justify-end m-3 card-img_hover gap-3">
             <div
               onClick={() => window.open(source_code_link, "blank")}
               className="black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
@@ -40,6 +42,17 @@ const ProjectCard = ({
               <img
                 src={github}
                 alt={github}
+                className="w-[102] h-[102] object-contain"
+              />
+            </div>
+
+            <div
+              onClick={() => window.open(source_code_link_2, "blank")}
+              className="black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
+            >
+              <img
+                src={button}
+                alt={button}
                 className="w-[102] h-[102] object-contain"
               />
             </div>
