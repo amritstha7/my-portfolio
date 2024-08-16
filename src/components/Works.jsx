@@ -7,7 +7,7 @@ import {button} from "../assets"
 import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
 import { fadeIn, textVariant } from "./motion";
-
+////hello comment///
 const ProjectCard = ({
   index,
   name,
