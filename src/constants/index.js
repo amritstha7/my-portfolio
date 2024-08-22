@@ -169,24 +169,24 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
+      "I thought it was impossible to make a website as beautiful as our product, but Aizen proved me wrong.",
+    name: "Asmita",
     designation: "CFO",
     company: "Acme Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+      "I've never met a web developer who truly cares about their clients' success like Aizen does.",
+    name: "Amrit Niure",
     designation: "COO",
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "After AIzen optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Anil shrestha",
     designation: "CTO",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
@@ -217,9 +217,9 @@ const projects = [
     source_code_link_2: "https://forms-lime.vercel.app/",
   },
   {
-    name: "Job IT",
+    name: "3d e-commerce website",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "I'm currently developing a 3D e-commerce website as a personal project alongside my studies. The project is built using three.js, React, and Tailwind CSS, This project is a testament to my skills in combining modern web technologies to deliver an engaging user experience..",
     tags: [
       {
         name: "react",
@@ -235,8 +235,8 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
-    source_code_link_2: "https://forms-lime.vercel.app/",
+    source_code_link: "https://github.com/amritstha7/3d-shoe-e-commerce-sample",
+    source_code_link_2: "https://3d-shoe-e-commerce-sample.vercel.app/",
   },
   {
     name: "Trip Guide",
