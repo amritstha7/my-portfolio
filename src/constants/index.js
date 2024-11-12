@@ -236,10 +236,10 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/amritstha7/3d-shoe-e-commerce-sample",
-    source_code_link_2: "https://3d-shoe-e-commerce-sample.vercel.app/",
+    source_code_link_2: "https://ecommerce-website-tau-liart.vercel.app/",
   },
   {
-    name: "Trip Guide",
+    name: "onGoing",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
