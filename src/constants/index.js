@@ -241,7 +241,7 @@ const projects = [
   {
     name: "onGoing",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A simple resume draft using just css and HTML.",
     tags: [
       {
         name: "nextjs",
@@ -257,8 +257,8 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
-    source_code_link_2: "https://forms-lime.vercel.app/",
+    source_code_link: "https://github.com/amritstha7/my-resume",
+    source_code_link_2: "https://vercel.com/amritstha7s-projects/resume-draft/7cRuTGUSgcC9JPSwhJZTGDcWyqf1",
   },
 ];
 
