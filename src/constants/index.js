@@ -217,7 +217,7 @@ const projects = [
     source_code_link_2: "https://forms-lime.vercel.app/",
   },
   {
-    name: "3d e-commerce website",
+    name: "on going (3d e-commerce website)",
     description:
       "I'm currently developing a 3D e-commerce website as a personal project alongside my studies. The project is built using three.js, React, and Tailwind CSS, This project is a testament to my skills in combining modern web technologies to deliver an engaging user experience..",
     tags: [
@@ -258,7 +258,7 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/amritstha7/my-resume",
-    source_code_link_2: "https://vercel.com/amritstha7s-projects/resume-draft/7cRuTGUSgcC9JPSwhJZTGDcWyqf1",
+    source_code_link_2: "https://resume-draft.vercel.app/",
   },
 ];
 
